@@ -4,3 +4,7 @@ Practicing Git
 
 这也是我在Github上编译输入的：
 git pull = Fetch + Merge；验证
+
+
+This is input for me in Linux system;
+
