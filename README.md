@@ -7,4 +7,4 @@ git pull = Fetch + Merge；验证
 
 
 This is input for me in Linux system;
-
+Linuc system input: Hello ;
